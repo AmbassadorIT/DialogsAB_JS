@@ -26,3 +26,5 @@ asdasdasasdasad
 I found this info in [DELFI](https://delfi.lv)
 
 additional changes for third commit
+
+Adding changes also here in order to get more comments and changes
