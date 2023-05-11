@@ -39,9 +39,11 @@ document.getElementById("demo").innerHTML = text;
 
 let text = "";
 let i = 1;
-while (i <= 20) {
+while (i <= 200) {
     if (i < 10) {
-  text += "<br>" + 0 + i; // text = text + "<br>" + i;
+  text += "<br>" + 0 + 0 + i; // text = text + "<br>" + i;
+    } else if (i >= 10 && i < 100) {
+        text += "<br>" + 0 + i;
     } else {
         text += "<br>" + i;
     }
