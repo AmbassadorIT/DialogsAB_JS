@@ -37,6 +37,8 @@ while (i <= 20) {
 document.getElementById("demo").innerHTML = text;
 */
 
+
+//Zemāk ir ļoti labs majasdarbs
 let text = "";
 let i = 1;
 while (i <= 200) {
@@ -50,3 +52,6 @@ while (i <= 200) {
     i++; // i++; // i = i + 1 // 
   }
 document.getElementById("demo").innerHTML = text;
+
+
+
